@@ -1,6 +1,6 @@
 # Coding-Group1142: Python Character Tournament
 Coding Project for 4,799,1.00 Skills: Programming - Introduction Level
-Project Link: [https://github.com/robert-rjm/CodingProject1142](https://github.com/robert-rjm/CodingProject1142)
+Project Link: [https://github.com/robert-rjm/Coding-Group1142](https://github.com/robert-rjm/Coding-Group1142)
 
 ## Creators
 By **group 1142**
