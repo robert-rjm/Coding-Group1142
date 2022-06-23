@@ -17,7 +17,13 @@ It includes:
 - A python file with the raw code (Code1142.py)
 - A pdf file with the documentation explaining the code line per line (Documentation1142.pdf)
 
-## Prerequisits
+## Getting Started
+The entire code/ program can be executed using the following function which encompasses all other functions.
+  ```python
+  tournament_duel()
+  ```
+
+### Prerequisits
 The code is written in Python 3.9.7
 To run this program, and simulate a tournament between fictional characters including a choice of attributes, both `numpy` and `random` are required.
 
