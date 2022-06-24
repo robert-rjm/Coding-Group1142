@@ -19,7 +19,7 @@ It includes:
 
 ## Getting Started
 The entire code/ program can be executed using the following function which encompasses all other functions.
-It will enable the user to select a character, choose a desired attribtue, and test the odds in competing within a tournament. 
+It will enable the user to select a character, choose a desired attribute, and test the odds in competing within a tournament. 
   ```python
   tournament_duel()
   ```
